@@ -13,3 +13,5 @@ The program is offline and does not retrieve any information
 
 Install:
 Download all the files from the repository and install by runing install.ps1
+
+Working on Sound Blaster X AE-5 plus sound cards, and probably the other SB cards using Sound Blaster Command software.
