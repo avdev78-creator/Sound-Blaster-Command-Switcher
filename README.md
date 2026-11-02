@@ -10,4 +10,6 @@ it starts automatically on startup (it adds a "run" registry key for this purpos
 you can also use the shortcut ctrl+alt+* to switch
 
 The program is offline and does not retrieve any information
+
+Install:
 Download all the files from the repository and install by runing install.ps1
